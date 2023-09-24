@@ -1,5 +1,6 @@
 # CryptoPass
-## First Password Manager that uses Cryptographic security 
+## First Password Manager that uses Cryptographic security to safely store your data.
+This password manager was designed with security in mind. CryptoPass revolutionizes the way you secure your sensitive information.
 
 ## EXPO APP SETUP TUTORIAL
 ### Step 1. Prepare your Project Structure
